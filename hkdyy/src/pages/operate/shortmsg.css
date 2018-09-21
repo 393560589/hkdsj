@@ -1,0 +1,41 @@
+.msgdata{
+	margin-top: 20px;
+}
+.msgdata .tip-title{
+	border:1px solid #e4e4e4;
+}
+.msgdata .tip-botbox{
+	border: 1px solid #e4e4e4;
+	margin-top: 10px;
+}
+.shortmsg li{
+	border: 1px solid #e4e4e4;
+	margin-top: 10px;
+	background: #fff;
+}
+.msgtitle{
+	height: 44px;
+	line-height: 44px;
+}
+.msgtitle i{
+	margin-left: 16px;
+	font-size: 16px;
+}
+.msgtitle a.right{
+	margin-right: 20px;
+	color: #1abc9c;
+}
+.msgtitle span{
+	margin-left: 16px;
+}
+.msgtitle small{
+	font-size: 12px;
+	color: #999;
+}
+.msgcon{
+	margin-left: 44px;
+	border-top: 1px solid #e4e4e4;
+	line-height: 30px;
+	padding: 10px 0;
+	padding-right: 24px;
+}

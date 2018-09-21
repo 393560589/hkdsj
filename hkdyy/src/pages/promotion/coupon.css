@@ -1,0 +1,194 @@
+.tip-title{
+	border:1px solid #e4e4e4;
+}
+.tip-title span{
+	margin-left: 20px;
+}
+.addcouponbox{
+
+}
+.litable th{
+	text-align: center;
+}
+.litable td{
+	text-align: left;
+}
+.litable td.operat{
+	text-align: center;
+}
+.litable td a{
+	margin: 0 auto;
+	
+}
+.upbtn{
+	width: 80px;
+	height: 35px;
+	display: block;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background: #1abc9c;
+	color: #fff;
+	line-height: 35px;
+	text-align: center;
+	font-size: 14px;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+.upbtn:hover{
+	background: #48c9b0;
+	color: #fff;
+}
+.addcouponbox ul.adul{
+	margin-left: 290px;
+	margin-top: 48px;
+}
+.addcouponbox ul.adul li{
+	clear: both;
+	margin-bottom: 10px;
+	overflow: hidden;
+	font-size: 14px;
+	line-height: 40px;
+}
+.addcouponbox ul.adul li span.sp{
+	float: left;
+	display: block;
+	width: 100px;
+	text-align: right;
+	line-height: 40px;
+	margin-right: 10px;
+	font-size: 12px;
+}
+.addcouponbox ul.adul li select{
+	width: 240px;
+	height: 40px;
+	border: 1px solid #e4e4e4;
+	padding: 0 10px;
+}
+.addcouponbox ul.adul li font{
+	margin-left: 110px;
+	color: #999;
+	line-height: 30px;
+	font-size: 12px;
+}
+.addcouponbox ul.adul li small{
+	line-height: 40px;
+}
+.addcouponbox ul.adul li input.mprice{
+	width: 68px;
+	margin: 0 6px;
+}
+
+.addcouponbox ul.adul li label{
+	margin-right: 10px;
+}
+.daterang label{
+	float: left;
+}
+.daterang div{
+	float: left;
+	position: relative;
+}
+.daterang div i{
+	position: absolute;
+	right: 10px; 
+	top: 13px;
+}
+.datefixed{
+	margin-left: 110px;
+	margin-top: 10px;
+}
+.datefixed label{
+	float: left;
+}
+.datefixed div{
+	float: left;
+	border:1px solid #e4e4e4;
+}
+.addcouponbox ul.adul li .datefixed div input{
+	border:0;
+	float: left;
+	width: 178px;
+}
+.datefixed div small{
+	display: block;
+	float: left;
+	width: 39px;
+	height: 38px;
+	border-left: 1px solid #e4e4e4;
+	background: #f2f2f2;
+	text-align: center;
+}
+.appoint{
+	padding: 20px 0;
+	border-top: 1px dashed #e4e4e4;
+	border-bottom: 1px dashed #e4e4e4;
+	overflow: hidden;
+}
+.appoint span.sp{
+	float: left;
+	display: block;
+	width: 100px;
+	text-align: right;
+	line-height: 40px;
+	margin-right: 10px;
+	font-size: 12px;
+	margin-left: 290px;
+}
+.addsel{
+	width: 298px;
+	height: 38px;
+	float: left;
+}
+.addsel select{
+	height: 36px;
+	width: 257px;
+	border:0;
+	padding: 0 10px;
+	float: left;
+}
+.addsel small{
+	display: block;
+	float: left;
+	width: 39px;
+	height: 36px;
+	border-left: 1px solid #e4e4e4;
+	background: #f2f2f2;
+	color: #999;
+    text-align: center;
+    line-height: 38px;
+    font-size: 16px;
+}
+.appoint font{
+	margin-left: 400px;
+	line-height: 30px;
+	color: #999;
+	clear: both;
+	margin-top: 10px;
+	display: block;
+}
+.litable{
+	margin-left: 400px;
+}
+.flypag{
+	margin-left:588px;
+}
+.remarks{
+	margin-left: 290px;
+	margin-top: 20px;
+}
+.remarks span{
+	float: left;
+	display: block;
+	width: 100px;
+	text-align: right;
+	line-height: 40px;
+	margin-right: 10px;
+	font-size: 12px;
+}
+.remarks textarea{
+	padding: 10px;
+	width: 308px;
+	height: 118px;
+	border:1px solid #e4e4e4;
+}

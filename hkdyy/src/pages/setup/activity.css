@@ -1,0 +1,178 @@
+.addbox{
+	border:1px solid #e4e4e4;
+	background: #fff;
+	padding-bottom: 66px;
+}
+
+.addbox ul{
+	margin-left: 210px;
+	margin-top: 45px;
+}
+.addbox ul li{
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 10px;
+	line-height: 40px;
+}
+.addbox ul span.sp{
+	display: block;
+	float: left;
+	width: 180px;
+	text-align: right;
+	line-height: 40px;
+	margin-right: 10px;
+}
+.addbox ul small{
+	line-height: 40px;
+}
+.addbox ul li input{
+	border:1px solid #e4e4e4;
+	padding: 0 10px;
+	
+}
+.addbox ul li input.alin{
+	width: 218px;
+}
+.addbox ul li label i{
+	font-size: 16px;
+}
+.addbox ul li label{
+	font-size: 14px;
+	color: #999;
+	line-height: 40px;
+	margin-right: 10px;
+}
+.acl-title{
+	width: 338px;
+}
+.tiput{
+	width: 238px;
+	height: 38px;
+	border: 1px solid #e4e4e4;
+}
+.tiput input{
+	border: 0 !important;
+	width: 178px;
+}
+.tiput i{
+	float: right;
+	margin-right: 10px;
+	margin-top: 11px;
+	font-size: 16px;
+}
+.addbox ul li textarea{
+	padding: 10px;
+    width: 308px;
+    height: 118px;
+    border: 1px solid #e4e4e4;
+    line-height: 22px;
+}
+.addbox ul li font{
+	display: block;
+	margin-left:190px;
+	clear: both;
+	line-height: 30px;
+	color: #999;
+}
+.upbtn{
+	width: 80px;
+    height: 35px;
+    display: block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    background: #1abc9c;
+    color: #fff;
+    line-height: 35px;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.upbtn.mid{
+	margin:0 auto;
+	margin-top: 30px;
+}
+.upbtn:hover{
+	background: #48c9b0;
+	color: #fff;
+}
+.seladdre{
+	border:1px solid #e4e4e4;
+	height: 38px;
+	width: 240px;
+	padding: 0 10px;
+}
+.distpicker select{
+	height: 38px;
+	border: 1px solid #e4e4e4;
+	padding: 0 10px;
+}
+.distpicker{
+	float: left;
+	margin-bottom: 18px;
+}
+.cityadbtn{
+	float: left;
+	line-height: 40px;
+	margin-left: 10px;
+	font-size: 14px;
+	color: #1abc9c;
+}
+.citytips{
+	clear: both;
+	margin-left: 190px;
+	width: 500px;
+}
+.addbox ul li .citytips span{
+	width: auto;
+	height: 24px;
+	border:1px solid #1abc9c;
+	color: #1abc9c;
+	line-height: 24px;
+	-webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 0 8px;
+    margin-bottom: 10px;
+}
+.addbox ul li .citytips span i{
+	margin-left: 8px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.powartable{
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.powartable th{
+	text-align: left;
+	height: 30px;
+}
+.powartable td{
+	text-align: left;
+	height: 30px;
+}
+.ciceall{
+	text-align: center;
+	height: 46px;
+	border:1px solid #e4e4e4;
+	width: 1038px;
+	margin: 0 auto;
+	line-height: 48px;
+	background: #f9fafc;
+}
+.prcbox{display: none;}
+.prci{margin-right: 6px;}
+.partment{
+	height: 38px;
+	width: 238px;
+	padding: 0 10px;
+	border:1px solid #e4e4e4;
+	line-height: 38px;
+}
+.citylist{
+	    margin-left: 190px;
+    width: 400px;
+}

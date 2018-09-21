@@ -1,0 +1,14 @@
+.left{
+	float: left;
+	overflow: hidden;
+	margin-left: 40px;
+}
+.left>span,.right>span{
+	
+	line-height: 40px;
+}
+.right{
+	float: right;
+	overflow: hidden;
+	margin-right: 40px;
+}

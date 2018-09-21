@@ -1,0 +1,16 @@
+.sechretitle{
+	margin-bottom: 20px;
+}
+.sechretitle a{
+	display: block;
+	margin-right: 10px;
+	border:1px solid #e4e4e4;
+	line-height: 28px;
+	padding: 0 30px;
+	float: left;
+}
+.sechretitle a.active{
+	background: #1abc9c;
+	border-color: #1abc9c;
+	color: #fff;
+}

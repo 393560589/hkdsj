@@ -1,0 +1,11 @@
+.modelul span.tsp{
+	display: inline-block;
+	width: 120px;
+	text-align: right;
+}
+.modelul span.tsp b{
+	margin-right: 4px;
+}
+.modelul small{
+	margin-right: 10px;
+}

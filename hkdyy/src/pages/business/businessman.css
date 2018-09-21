@@ -1,0 +1,56 @@
+.toubu{
+	border: 1px solid #e4e4e4;
+	border-collapse: collapse;
+	margin-bottom: 40px;
+}
+.toubu td{
+	border: 1px solid #e4e4e4;
+    background: #fff;
+    padding: 8px 20px;
+    height: 28px;
+}
+.toubu td.th{
+	background: #f9fafc;
+	text-align: right;
+}
+.headpoto{
+	width: 74px;
+	height: 74px;
+	margin: 0 auto;
+	font-size: 74px;
+	line-height: 69px;
+	color: #cccccc;
+}
+.name{
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+}
+.xqtitle{
+	width: 1040px;
+	line-height: 58px;
+	font-size: 16px;
+}
+.litable th{
+	height: 28px;
+}
+.litable td{
+	height: 42px;
+}
+.bodz td{
+	font-size: 16px;
+}
+.denji{
+	display: block;
+	width: 80px;
+	height: 26px;
+	text-align: center;
+	line-height: 26px;
+	background: #f04844;
+	margin: 0 auto;
+	-webkit-border-radius: 13px;
+	-moz-border-radius: 13px;
+	border-radius: 13px;
+	color: #fff;
+	margin-top: 10px;
+}

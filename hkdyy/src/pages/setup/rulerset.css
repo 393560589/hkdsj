@@ -1,0 +1,111 @@
+div.title{
+	box-sizing: content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box
+}
+.rulerbox{
+	border: 1px solid #e4e4e4;
+	background: #fff url(../../assets/rub.png) repeat-y left;
+	padding-bottom: 60px;
+}
+.rultab{
+	margin-top: 50px;
+	clear: both;
+	overflow: hidden;
+
+}
+.rultab .title{
+	width: 180px;
+	height: 50px;
+	background: url(../../assets/u3121.png) no-repeat;
+	color: #fff;
+	font-size: 16px;
+	line-height: 50px;
+	padding-left: 20px;
+	float: left;
+}
+.rultab .con{
+	float: left;
+	width: 890px;
+}
+.rultab .con li{
+	clear: both;
+	line-height: 40px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.rultab .con li span.sp{
+	display: block;
+	float: left;
+	width: 190px;
+	text-align: right;
+	margin-right: 10px;
+}
+.rultab .con li span.ti{
+	width: 80px;
+	margin-left: 10px;
+}
+
+.rultab .con li small{
+	float: left;
+	display: block;
+	width: 38px;
+	height: 38px;
+	border:1px solid #e4e4e4;
+	border-left: 0;
+	text-align: center;
+	background: #f2f2f2;
+}
+.rultab .con li font{
+	float: left;
+	margin-left: 10px;
+}
+
+.upbtn{
+	width: 80px;
+	height: 35px;
+	display: block;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background: #1abc9c;
+	color: #fff;
+	line-height: 35px;
+	text-align: center;
+	font-size: 14px;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+.upbtn:hover{
+	background: #48c9b0;
+	color: #fff;
+}
+.rultab .con li font.btip{
+	color: #999;
+	display: block;
+	clear: both;
+	margin-left: 200px;
+}
+.rultab li textarea{
+	border:1px solid #e4e4e4;
+	width: 448px;
+	height: 110px;
+	padding: 10px;
+	float: left;
+	border-radius: 4px;
+}
+.rultab li label{
+	color: #999;
+	font-size: 14px;
+}
+.rultab li i{
+	font-size: 16px;
+}
+#comment{
+	width: 800px;
+	height: 400px;
+	margin-left: 50px;
+	float: left;
+}
+.note-editor{
+	margin-left: 50px;
+	float: left;
+}
